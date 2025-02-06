@@ -1,1 +1,0 @@
-{"importBase":"import","nativeBase":"native","name":"WelcomePanel","deps":["common"],"uuids":["42W8WKZuJOWY717zzynGky","adl+XySF1Ou6HvpjwcMhFa@f9941"],"paths":{"0":["WelcomePanel",0,1]},"scenes":{},"packs":{},"versions":{"import":[],"native":[]},"redirect":[1,"0"],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.Prefab"]}
