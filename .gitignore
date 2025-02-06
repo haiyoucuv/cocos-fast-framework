@@ -19,10 +19,12 @@ node_modules/
 #//////////////////////////
 # WebStorm
 #//////////////////////////
-#.idea/
+.idea/
 
 .DS_Store
 tmp.txt
+
+build
 
 profiles/v2/*/*
 
@@ -34,5 +36,3 @@ yarn-error.log
 yarn.lock
 npm-debug.log
 package-lock.json
-
-.idea
