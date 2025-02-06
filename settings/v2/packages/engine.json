@@ -36,7 +36,7 @@
         "_value": true
       },
       "particle": {
-        "_value": true
+        "_value": false
       },
       "physics": {
         "_value": true,
@@ -158,10 +158,10 @@
         "_value": false
       },
       "marionette": {
-        "_value": true
+        "_value": false
       },
       "procedural-animation": {
-        "_value": true
+        "_value": false
       },
       "custom-pipeline-post-process": {
         "_value": false
@@ -180,7 +180,9 @@
         "_value": true
       }
     },
-    "flags": {},
+    "flags": {
+      "LOAD_PHYSX_MANUALLY": false
+    },
     "includeModules": [
       "2d",
       "3d",
@@ -191,20 +193,17 @@
       "geometry-renderer",
       "gfx-webgl",
       "gfx-webgl2",
-      "marionette",
       "meshopt",
       "occlusion-query",
-      "particle",
       "physics-physx",
       "primitive",
-      "procedural-animation",
       "profiler",
       "skeletal-animation",
       "tween",
       "ui"
     ],
     "noDeprecatedFeatures": {
-      "value": false,
+      "value": true,
       "version": ""
     }
   },
