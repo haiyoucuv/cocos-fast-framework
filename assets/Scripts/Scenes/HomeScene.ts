@@ -27,12 +27,9 @@ export class HomeScene extends Scene {
         await store.updateIndex();
         hideWaiting();
 
-        const {firstLogin} = store.userData;
+        const {  } = store.userData;
 
-        if(firstLogin){
-            showPanel(WelcomePanel);
-            store.setGuideCompleted();
-        }
+        showPanel(WelcomePanel);
 
     }
 
