@@ -9,7 +9,7 @@
       "outputName": "web-mobile",
       "mainBundleCompressionType": "merge_all_json",
       "platform": "web-mobile",
-      "mainBundleIsRemote": true,
+      "mainBundleIsRemote": false,
       "overwriteProjectSettings": {
         "includeModules": {
           "gfx-webgl2": "inherit-project-setting"
