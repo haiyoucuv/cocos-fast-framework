@@ -1,0 +1,13 @@
+{
+  "code": "123",
+  "data": {
+    "creditsNum": 500,
+    "cardReviveTimes": 0,
+    "creditsReviveTimes": 0,
+    "reviveEachNum": 10,
+    "shareReviveTimes": 0,
+    "reviveCardNum": 10
+  },
+  "message": "aliqua consectetur in ea",
+  "success": true
+}

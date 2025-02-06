@@ -1,0 +1,113 @@
+{
+  "success": true,
+  "code": "aliqua",
+  "message": "elit labore officia",
+  "timeStamp": 1000,
+  "data": {
+    "firstEntryFlag": false,
+    "dividePop": {
+      "boolShowPop": false,
+      "creditsNum": 3,
+      "rankOrder": 3,
+      "rankMultiply": 16,
+      "obtainScoreNum":21
+    },
+    "settlementPop": {
+      "boolShowPop": false,
+      "oldRankMultiply": 9,
+      "newRankMultiply": 9,
+      "oldRankLevel":2,
+      "newRankLevel":2,
+      "rankList": [
+        {
+          "nickName": "commodo et",
+          "rankScore": 383952,
+          "rankOrder":1,
+          "boolMe": true
+        },
+        {
+          "avatar":"",
+          "rankScore": 635,
+          "rankOrder":null,
+          "boolMe": false
+        },
+      ],
+      "obtainScoreNum": 27
+    },
+    "actStartTime": 0,
+    "actEndTime": 11737169781000,
+    // 剩余积分,
+    "remainCredits": 1111110,
+
+    // 是否参与排行榜(true:已参与 false:未参与)
+    "boolJoinRank": false,
+
+    "normalNum": 100,
+    "goldNum": 666,
+    // 当前几个球
+    "currentPoolNormalNum": 100,
+    "currentPoolGoldNum": 10,
+	"actRuleImage": "",
+
+    "poolConfig": {
+      "normalNum": 3314007.783894852,
+      "goldNum": 41241520.736848354
+    },
+    // 兑换体力需要的积分
+    eachLuckCredits: 10,
+    // 体力&配置
+    "currentEnergy": {
+      "initEnergy": 10,
+      "eachEnergyTime": 10,
+      "energyLimit": 100,
+      "fullEnergyTime": 2736154875005,
+      "exchangeEnergyConfigs": [
+        {
+          "creditNum": 10,
+          "awardNum": 1,
+          "id": "id11"
+        },
+        {
+          "creditNum": 648,
+          "awardNum": 800,
+          "id": "id22"
+        }
+      ]
+    },
+    // 任务弹窗
+    "taskCompletePops": [
+      {
+        "taskCode": "taskCode1",
+        "awardNum": 25,
+        "awardSpId": "sp_normal_luck_tag",
+        "times": 10
+      },
+      {
+        "taskCode": "taskCode2",
+        "awardNum": 10,
+        "awardSpId": "sp_gold_luck_tag",
+        "times": 15
+      }
+    ],
+    taskCompletePops: [],
+
+    // 双倍
+    "currentMultiple": {
+      "doubleStartTime": 500,
+      "doubleEndTime": 1836301147803,
+      "rate": 2,
+      "awardNormalNum": 10,
+      "awardGoldNum": 10
+    },
+    "userId": "userId123",
+    "greenNum": 12312,
+    "greenExchangeConfig": {
+      "consumeNum": "veniam culpa sit laboris do",
+      "awardNum": 55313226.647502124,
+      "awardSpId": "deserunt ad"
+    },
+
+    gradeValue: 11,
+    minJoinGrade: 10,
+  }
+}

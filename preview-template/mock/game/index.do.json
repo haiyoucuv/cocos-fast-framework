@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "code": "",
+  "message": "",
+  "data": {
+    "actStartTimestamp": 1704038400000,
+    "actEndTimestamp": 1735660799000,
+    "currentTimestamp": 1723000150448,
+    "addDailyFreeTimes": 30,
+    "leftTimes": 1000,
+    "newGuideFlag": 0
+  }
+}

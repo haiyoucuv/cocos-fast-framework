@@ -1,0 +1,113 @@
+{
+  "code": null,
+  "data": {
+    "currentRankLevel": 2,
+    "groupPeople": 10,
+    "settlementTime": "25:00:00",
+    "rankList": [
+      {
+        "avatar": "https://uatpic.kwwblcj.com/memberheadUrl/20240125/1706151441330.jpg",
+        "boolMe": false,
+        "nickName": "**奇",
+        "rankOrder": 1,
+        "rankScore": 908,
+        "userId": "3829005080"
+      },
+      {
+        "avatar": "",
+        "boolMe": true,
+        "nickName": "",
+        "rankOrder": 2,
+        "rankScore": 55,
+        "userId": "4208676872"
+      },
+      {
+        "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/POgEwh4mIHO4nibH0KlMECNjjGxQUq24ZEaGT4poC6icRiccVGKSyXwibcPq4BWmiaIGuG1icwxaQX6grC9VemZoJ8rg/132",
+        "boolMe": false,
+        "nickName": "***户",
+        "rankOrder": 3,
+        "rankScore": 29,
+        "userId": "3881388694"
+      },
+      {
+        "avatar": "https://uatpic.kwwblcj.com/memberheadUrl/20230417/1681719835914.jpg",
+        "boolMe": false,
+        "nickName": "***v",
+        "rankOrder": 4,
+        "rankScore": 16,
+        "userId": "3912357678"
+      },
+      {
+        "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/B2iaKTRLzYqomCnyAWhliaDhetNVXA2YETR7O7tiajma61PhsaS37ibgVK0kDEiaFVKUZZCzwnr8VZB3duCpQRPhNLg/132",
+        "boolMe": false,
+        "nickName": "**年",
+        "rankOrder": 5,
+        "rankScore": 7,
+        "userId": "3955945194"
+      }
+    ],
+    "startDay": "20241225",
+    "endDay": "20250120",
+    "myDivideCredits": 0,
+    "rankLevelConfigs": [
+      {
+        "downgradeNum": 0,
+        "multiple": 1,
+        "rankLevel": 1,
+        "upgradeNum": 8
+      },
+      {
+        "downgradeNum": 7,
+        "multiple": 2,
+        "rankLevel": 2,
+        "upgradeNum": 2
+      },
+      {
+        "downgradeNum": 3,
+        "multiple": 3,
+        "rankLevel": 3,
+        "upgradeNum": 4
+      },
+      {
+        "downgradeNum": 3,
+        "multiple": 4,
+        "rankLevel": 4,
+        "upgradeNum": 3
+      },
+      {
+        "downgradeNum": 3,
+        "multiple": 8,
+        "rankLevel": 5,
+        "upgradeNum": 3
+      },
+      {
+        "downgradeNum": 3,
+        "multiple": 16,
+        "rankLevel": 6,
+        "upgradeNum": 3
+      },
+      {
+        "downgradeNum": 3,
+        "multiple": 32,
+        "rankLevel": 7,
+        "upgradeNum": 3
+      },
+      {
+        "downgradeNum": 3,
+        "multiple": 64,
+        "rankLevel": 8,
+        "upgradeNum": 3
+      },
+      {
+        "downgradeNum": 5,
+        "multiple": 128,
+        "rankLevel": 9,
+        "upgradeNum": 0
+      }
+    ],
+    "divideCredits": 202516888
+  },
+  "message": null,
+  "success": true,
+  "timeStamp": 1736838716000
+}

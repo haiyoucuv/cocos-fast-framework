@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "prizeType": 1,
+      "prizeId": "g4c4c3edd"
+    },
+    {
+      "prizeType": 2,
+      "prizeId": "g0e432eeb"
+    },
+    {
+      "prizeType": 3,
+      "prizeId": "g900c8442"
+    },
+    {
+      "prizeType": 4,
+      "prizeId": "g4c7ba888"
+    }
+  ],
+  "success": true
+}

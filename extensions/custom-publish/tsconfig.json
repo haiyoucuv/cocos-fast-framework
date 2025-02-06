@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "commonjs",
+        "inlineSourceMap": false,
+        "outDir": "./dist",
+        "rootDir": "./source",
+        "allowJs": true,
+        "lib": ["dom", "es7", "ESNext", "ES2022", "ESNext.Promise"],
+        "esModuleInterop": true,
+        "skipLibCheck": true
+    },
+    "exclude": ["./dist"],
+    "include": ["./source"]
+  }

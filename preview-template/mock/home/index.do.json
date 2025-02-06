@@ -1,0 +1,56 @@
+{
+  "code": null,
+  "data": {
+    "actEndTime": 1735638689560,
+    "actStartTime": 1733565086149,
+    "avatar": null,
+    "bagPopVO": {
+      "bagNum": 42900739.4793739,
+      "bagImg": "sunt esse ea Duis",
+      "bagName": "sint"
+    },
+    "benefitDesc": "规则权益文案",
+    "continueSignDays": 1,
+    "creditsNum": 1011347,
+    "currentTime": 1733984931891,
+    "firstEntryFlag": false,
+    "luckBenefitDesc": "权益福袋权益",
+    "newGetSpId": null,
+    "newGetSpImage": null,
+    "newGetSpName": null,
+    "nickname": null,
+    "rankInfos": [
+      {
+        "avatar": null,
+        "index": 1,
+        "nickname": null
+      },
+      {
+        "avatar": null,
+        "index": 2,
+        "nickname": null
+      },
+      {
+        "avatar": null,
+        "index": 3,
+        "nickname": null
+      }
+    ],
+    "rankPopList": [
+      {
+        "avatar": null,
+        "index": 1,
+        "nickname": null,
+        "openDate":1733984931891,
+        "prizeName": "sunt esse ea Duis",
+        "count":5,
+        "prizeImage":"//yun.dui88.com/images/201907/tua0um9jjp.jpg"
+      }
+    ],
+    "rankPopList": [],
+    "signPopFlag": false
+  },
+  "message": null,
+  "success": true,
+  "timeStamp": 1733984932128
+}

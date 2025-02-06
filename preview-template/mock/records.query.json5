@@ -1,0 +1,276 @@
+{
+    "data": [
+        {
+            "extra": {
+                "name": "2X财气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736414940000,
+            "id": 2126550291,
+            "prizeId": "sp_tag_gold_2x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "888888红包",
+                "icon": "",
+                "type": 1,
+                "sendCount": 888
+            },
+            "gmtCreate": 1736413107000,
+            "id": 2126527256,
+            "prizeId": "sp_red_888",
+            "strategyId": "ru_exchange_3"
+        },
+        {
+            "extra": {
+                "name": "专享红包",
+                "icon": "",
+                "type": 1,
+                "sendCount": 888
+            },
+            "gmtCreate": 1736412971000,
+            "id": 2126524878,
+            "prizeId": "sp_red",
+            "strategyId": "ru_exchange_3"
+        },
+        {
+            "extra": {
+                "name": "测试奖品1",
+                "icon": "",
+                "refType": "virtual",
+                "refId": "151127",
+                "type": 2,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736412064000,
+            "id": 2126513513,
+            "prizeId": "sss_2",
+            "strategyId": "ru_exchange_2"
+        },
+        {
+            "extra": {
+                "name": "这个特殊道具展示出来",
+                "icon": "",
+                "type": 1,
+                "sendCount": 888
+            },
+            "gmtCreate": 1736412058000,
+            "id": 2126513509,
+            "prizeId": "sp_compose_1",
+            "strategyId": "ru_exchange_3"
+        },
+        {
+            "extra": {
+                "name": "100X福气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736412023000,
+            "id": 2126513125,
+            "prizeId": "sp_tag_normal_100x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "5X财气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411652000,
+            "id": 2126507819,
+            "prizeId": "sp_tag_gold_5x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "1分钟掉落福袋X2",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411612000,
+            "id": 2126507118,
+            "prizeId": "sp_tag_double_1",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "1X财气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411576000,
+            "id": 2126507002,
+            "prizeId": "sp_tag_gold_1x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "10X福气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411640000,
+            "id": 2126506680,
+            "prizeId": "sp_tag_normal_10x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "3分钟掉落福袋x2",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411620000,
+            "id": 2126506483,
+            "prizeId": "sp_tag_double_2",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "3分钟掉落福袋x2",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411565000,
+            "id": 2126506259,
+            "prizeId": "sp_tag_double_2",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "100X福气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411519000,
+            "id": 2126505914,
+            "prizeId": "sp_tag_normal_100x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "1分钟掉落福袋X2",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411532000,
+            "id": 2126505754,
+            "prizeId": "sp_tag_double_1",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "1X财气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411457000,
+            "id": 2126504835,
+            "prizeId": "sp_tag_gold_1x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "5X财气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411446000,
+            "id": 2126504640,
+            "prizeId": "sp_tag_gold_5x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "10X福气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411465000,
+            "id": 2126504585,
+            "prizeId": "sp_tag_normal_10x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "66X福气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411406000,
+            "id": 2126503947,
+            "prizeId": "sp_tag_normal_66x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "2X财气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411291000,
+            "id": 2126502720,
+            "prizeId": "sp_tag_gold_2x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "100X福气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411312000,
+            "id": 2126502080,
+            "prizeId": "sp_tag_normal_100x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "5X财气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411248000,
+            "id": 2126502021,
+            "prizeId": "sp_tag_gold_5x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "福气标记",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411234000,
+            "id": 2126501828,
+            "prizeId": "sp_normal_luck_tag",
+            "strategyId": "spPrize@sp_normal_luck_tag@1"
+        },
+        {
+            "extra": {
+                "name": "5X财气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411301000,
+            "id": 2126501794,
+            "prizeId": "sp_tag_gold_5x",
+            "strategyId": "ru_draw_pool"
+        },
+        {
+            "extra": {
+                "name": "2X福气",
+                "type": 1,
+                "sendCount": 1
+            },
+            "gmtCreate": 1736411281000,
+            "id": 2126501682,
+            "prizeId": "sp_tag_normal_2x",
+            "strategyId": "ru_draw_pool"
+        }
+    ],
+    "success": true,
+    "timeStamp": 1736423399211
+}

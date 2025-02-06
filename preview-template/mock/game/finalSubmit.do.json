@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "code": "",
+  "message": "",
+  "data": {
+    "awardList": [
+      {
+        "prizeId": "sp_bag_silver",
+        "prizeImage": "123123123.png",
+        "prizeName": "prize11",
+        "count": 20
+      },
+      {
+        "prizeId": "sp_bagr",
+        "prizeImage": "123123123.png",
+        "prizeName": "prize22",
+        "count": 20
+      },
+      {
+        "prizeId": "sp_bagr1111",
+        "prizeImage": "123123123.png",
+        "prizeName": "prize33",
+        "count": 20
+      },
+      {
+        "prizeId": "sp_bagr123",
+        "prizeImage": "123123123.png",
+        "prizeName": "prize44",
+        "count": 20
+      },
+      {
+        "prizeId": "sp_bagr3332",
+        "prizeImage": "123123123.png",
+        "prizeName": "prize55",
+        "count": 20
+      }
+    ],
+    "score": 10000,
+    "finalKill": 20
+  }
+}

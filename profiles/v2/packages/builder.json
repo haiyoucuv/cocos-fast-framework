@@ -1,0 +1,123 @@
+{
+  "__version__": "1.3.9",
+  "log": {
+    "level": 2
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "mainBundleCompressionType": "merge_dep",
+    "mainBundleIsRemote": true,
+    "buildPath": "project://build",
+    "outputName": "web-mobile",
+    "platform": "web-mobile",
+    "overwriteProjectSettings": {
+      "includeModules": {
+        "gfx-webgl2": "inherit-project-setting"
+      }
+    },
+    "scenes": [
+      {
+        "url": "db://assets/Start/Start.scene",
+        "uuid": "9e293cde-e27b-4902-808b-e884f3e9da32"
+      },
+      {
+        "url": "db://assets/Bundles/HomeScene/HomeScene.scene",
+        "uuid": "04224ebd-adcd-4112-8010-da14ed5ea48a",
+        "bundle": "db://assets/Bundles/HomeScene"
+      },
+      {
+        "url": "db://assets/Bundles/MainGame/MainGame.scene",
+        "uuid": "53947ca7-3484-4b53-800d-509405063d68",
+        "bundle": "db://assets/Bundles/MainGame"
+      },
+      {
+        "url": "db://assets/Bundles/RankScene/RankScene.scene",
+        "uuid": "ecc1ca0b-a99f-40ac-88a0-c438df2e94f7",
+        "bundle": "db://assets/Bundles/RankScene"
+      }
+    ],
+    "useSplashScreen": false,
+    "debug": false,
+    "sourceMaps": false
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1730878748609": {
+        "type": "build",
+        "id": "1730878748609",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2025-1-20 18:02:04 build success in 1 min 15 s!",
+        "detailMessage": "asset-db-hook-engine-extends-afterRefresh (35ms)\r",
+        "options": {
+          "name": "cocos-template-3d",
+          "server": "",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "overwriteProjectSettings": {
+            "includeModules": {
+              "gfx-webgl2": "inherit-project-setting",
+              "physics": "inherit-project-setting",
+              "physics-2d": "inherit-project-setting"
+            },
+            "macroConfig": {
+              "cleanupImageCache": "inherit-project-setting"
+            }
+          },
+          "nativeCodeBundleMode": "both",
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "md5CacheOptions": {
+            "excludes": [],
+            "includes": [],
+            "replaceOnly": [],
+            "handleTemplateMd5Link": true
+          },
+          "mainBundleIsRemote": true,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": false,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "9e293cde-e27b-4902-808b-e884f3e9da32",
+          "outputName": "web-mobile",
+          "taskName": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/Start/Start.scene",
+              "uuid": "9e293cde-e27b-4902-808b-e884f3e9da32"
+            },
+            {
+              "url": "db://assets/Bundles/HomeScene/HomeScene.scene",
+              "uuid": "04224ebd-adcd-4112-8010-da14ed5ea48a",
+              "bundle": "db://assets/Bundles/HomeScene"
+            },
+            {
+              "url": "db://assets/Bundles/MainGame/MainGame.scene",
+              "uuid": "53947ca7-3484-4b53-800d-509405063d68",
+              "bundle": "db://assets/Bundles/MainGame"
+            }
+          ],
+          "wasmCompressionMode": false,
+          "packages": {},
+          "__version__": "1.3.8",
+          "logDest": "project://temp/builder/log/web-mobile2024-11-6 15-39.log",
+          "buildMode": "normal"
+        },
+        "time": "2025-1-20 18:00:49",
+        "dirty": false
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "code": "aliqua",
+  "message": "elit labore officia",
+  "timeStamp": 1000,
+  "data": {
+    drawSpId: "sp_tag_double_1",
+    normalNum: 210,
+    goldNum: 1010,
+    currentPoolNormalNum: 100,
+    currentPoolGoldNum: 100,
+    putAwardConfig: {
+      doubleFlag: false,
+      doubleStartTime: 0,
+      doubleEndTime: 1736217740227,
+      continueTime: 0,
+      rate: 2,
+      awardSpId: "sp_normal_luck",
+      awardNum: 100,
+    },
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "code": "commodo aute",
+  "message": "adipisicing labore",
+  "data": {
+    remainCredits: 10000,
+    "currentEnergy": {
+      "initEnergy": 10,
+      "eachEnergyTime": 10,
+      "energyLimit": 100,
+      "fullEnergyTime": 2736154875005,
+      "exchangeEnergyConfigs": [
+        {
+          "creditNum": 10,
+          "awardNum": 1,
+          "id": "id11"
+        },
+        {
+          "creditNum": 648,
+          "awardNum": 800,
+          "id": "id22"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "__version__": "1.0.1",
+  "builder": {
+    "common": {
+      "polyfills": {
+        "asyncFunctions": true
+      },
+      "buildPath": "project://build",
+      "outputName": "web-mobile",
+      "mainBundleCompressionType": "merge_dep",
+      "platform": "web-mobile",
+      "mainBundleIsRemote": true,
+      "overwriteProjectSettings": {
+        "includeModules": {
+          "gfx-webgl2": "inherit-project-setting"
+        }
+      },
+      "scenes": [
+        {
+          "url": "db://assets/Start/Start.scene",
+          "uuid": "9e293cde-e27b-4902-808b-e884f3e9da32"
+        },
+        {
+          "url": "db://assets/Bundles/HomeScene/HomeScene.scene",
+          "uuid": "04224ebd-adcd-4112-8010-da14ed5ea48a",
+          "bundle": "db://assets/Bundles/HomeScene"
+        },
+        {
+          "url": "db://assets/Bundles/MainGame/MainGame.scene",
+          "uuid": "53947ca7-3484-4b53-800d-509405063d68",
+          "bundle": "db://assets/Bundles/MainGame"
+        },
+        {
+          "url": "db://assets/Bundles/RankScene/RankScene.scene",
+          "uuid": "ecc1ca0b-a99f-40ac-88a0-c438df2e94f7",
+          "bundle": "db://assets/Bundles/RankScene"
+        }
+      ],
+      "useSplashScreen": false,
+      "debug": false,
+      "sourceMaps": false
+    },
+    "taskOptionsMap": {
+      "1730878748609": {
+        "useWebGPU": false,
+        "orientation": "portrait",
+        "embedWebDebugger": false,
+        "__version__": "1.0.1"
+      }
+    },
+    "__version__": "1.3.8",
+    "options": {
+      "web-mobile": {
+        "useWebGPU": false,
+        "orientation": "portrait",
+        "embedWebDebugger": false,
+        "__version__": "1.0.1"
+      }
+    }
+  }
+}

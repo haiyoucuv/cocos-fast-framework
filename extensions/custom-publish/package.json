@@ -1,0 +1,23 @@
+{
+    "name": "custom-publish",
+    "title": "发布插件",
+    "package_version": 2,
+    "version": "1.0.0",
+    "author": "haiyoucuv",
+    "description": "发布插件",
+    "contributions": {
+        "builder": "./dist/builder.js"
+    },
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "@types/fs-extra": "^5.0.4",
+        "ali-oss": "^6.19.0",
+        "fs-extra": "^10.0.0",
+        "jszip": "^3.10.1",
+        "progress": "^2.0.3",
+        "typescript": "^5.3.3"
+    },
+    "creator": ">=3.8.1"
+}

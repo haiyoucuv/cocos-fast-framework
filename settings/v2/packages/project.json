@@ -1,0 +1,43 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 750,
+      "height": 1624,
+      "fitHeight": false,
+      "fitWidth": true
+    },
+    "downloadMaxConcurrency": 20,
+    "renderPipeline": "5d45ba66-829a-46d3-948e-2ed3fa7ee421"
+  },
+  "custom_joint_texture_layouts": [],
+  "physics": {
+    "collisionGroups": [],
+    "collisionMatrix": {
+      "0": 2,
+      "1": 63,
+      "2": 2,
+      "3": 114,
+      "4": 10,
+      "5": 74,
+      "6": 40
+    },
+    "maxSubSteps": 1,
+    "defaultMaterial": "",
+    "fixedTimeStep": 0.016666666666666666,
+    "autoSimulation": true
+  },
+  "layer": [
+    {
+      "name": "Game",
+      "value": 1
+    },
+    {
+      "name": "Poster",
+      "value": 2
+    }
+  ],
+  "version": "2.4.10",
+  "id": "a09620d1-8e68-4bb2-b7b7-1e9b271e234d",
+  "isNew": false
+}

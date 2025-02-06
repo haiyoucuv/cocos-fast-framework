@@ -1,0 +1,36 @@
+
+#///////////////////////////
+# Cocos Creator 3D Project
+#///////////////////////////
+library/
+temp/
+local/
+native
+#//////////////////////////
+# NPM
+#//////////////////////////
+node_modules/
+
+#//////////////////////////
+# VSCode
+#//////////////////////////
+#.vscode/
+
+#//////////////////////////
+# WebStorm
+#//////////////////////////
+#.idea/
+
+.DS_Store
+tmp.txt
+
+profiles/v2/*/*
+
+!profiles/v2/packages/builder.json
+!profiles/v2/packages/web-mobile.json
+extensions/shader-graph
+
+yarn-error.log
+yarn.lock
+npm-debug.log
+package-lock.json

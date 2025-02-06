@@ -1,0 +1,22 @@
+{
+	/* Base configuration. Do not edit this field. */
+	"extends": "./temp/tsconfig.cocos.json",
+	/* Add your custom configuration here. */
+	"compilerOptions": {
+        "lib": [
+          "es2015",
+          "dom"
+        ],
+		"strict": false,
+		"allowSyntheticDefaultImports": true,
+		"moduleResolution": "bundler",
+		"noUnusedLocals": false,
+		"noImplicitAny": false,
+		"noUnusedParameters": false,
+		"paths": {
+			"db://assets/*": [
+				"./assets/*"
+			]
+		}
+	}
+}

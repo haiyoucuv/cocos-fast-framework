@@ -1,0 +1,15 @@
+{
+	"success": true,
+	"message": null,
+	"code": null,
+	"timeStamp": 1703644343317,
+	"data": {
+      "shareInfo": {
+        "title": "分享标题",
+        "content": "分享描述",
+        "thumbnail": ""
+      },
+		"loginUrl": "",
+		"type": "1"
+	}
+}

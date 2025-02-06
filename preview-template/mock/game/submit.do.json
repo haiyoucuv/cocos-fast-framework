@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "code": "",
+  "message": "",
+  "data": {
+    "prize": {
+      "ruleId": "ru_draw",
+      "optionId": "aaaadddd",
+      "optionName": "1元话费",
+      "optionImg": "",
+      "prizeId": "sss_3",
+      "prizeType": 2,
+      "position": 1,
+      "userRecordId": 1234,
+      "url": "https://www.baidu.com/1234",
+      "sendCount": 1,
+      "extra": "{}"
+    }
+  }
+}

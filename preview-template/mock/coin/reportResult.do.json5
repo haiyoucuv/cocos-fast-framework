@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "code": "aliqua",
+  "message": "elit labore officia",
+  "timeStamp": 1000,
+  "data": {
+    normalNum: 210,
+    goldNum: 1010,
+    lastNormalNum: 100,
+    lastGoldNum: 100,
+    currentNormalNum: 100,
+    currentGoldNum: 10,
+  }
+}
