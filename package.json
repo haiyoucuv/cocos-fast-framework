@@ -1,11 +1,8 @@
 {
-  "name": "cocos-template-3d",
+  "name": "cocos-fast-framework",
   "uuid": "5b5f352c-1e41-4e13-b5e4-826481783231",
   "scripts": {
     "preinstall": "node ./scripts/preInstall.js"
-  },
-  "mocker": {
-    "port": 7456
   },
   "creator": {
     "version": "3.8.5",
