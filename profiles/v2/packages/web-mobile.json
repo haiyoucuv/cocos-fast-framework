@@ -35,7 +35,8 @@
       "debug": false,
       "sourceMaps": false,
       "inlineEnum": true,
-      "md5Cache": false
+      "md5Cache": false,
+      "nativeCodeBundleMode": "wasm"
     },
     "taskOptionsMap": {
       "1730878748609": {
