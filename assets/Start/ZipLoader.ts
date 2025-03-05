@@ -39,7 +39,7 @@ export default class ZipLoader {
     downloadZip(path: string): Promise<ArrayBuffer> {
         return new Promise((resolve) => {
             assetManager.downloader.downloadFile(
-                path + '.zip',
+                path + '.bundle',   // 自定义后缀
                 {xhrResponseType: "arraybuffer"},
                 null,
                 (err, data) => {
