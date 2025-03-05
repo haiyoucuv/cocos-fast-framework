@@ -1,4 +1,4 @@
-const { exec } = require("child_process");
+import {exec} from "child_process";
 
 // TODO 要用这个功能就全局安装一下 javascript-obfuscator
 // TODO yarn global add javascript-obfuscator

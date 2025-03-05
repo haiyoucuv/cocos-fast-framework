@@ -44,11 +44,11 @@ export const configs: BuildPlugin.Configs = {
             cdnDomain: {
                 label: 'cdn域名',
                 description: 'cdnDomain',
-                default: '//yun.duiba.com.cn',
+                default: '//yun.xxx.com.cn',
                 render: {
                     ui: 'ui-input',
                     attributes: {
-                        placeholder: '//yun.duiba.com.cn',
+                        placeholder: '//yun.xxx.com.cn',
                     },
                 },
                 verifyRules: ['required']
@@ -80,7 +80,7 @@ export const configs: BuildPlugin.Configs = {
             bucket: {
                 label: 'bucket',
                 description: 'bucket',
-                default: 'duiba',
+                default: 'xxx',
                 render: {
                     ui: 'ui-input',
                     attributes: {
